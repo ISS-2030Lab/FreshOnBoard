@@ -18,3 +18,6 @@ LLM -> VLM -> Omni-LLM -> Full-Duplex (Omni) LLM
 - (https://developer.aliyun.com/article/1704880)
 - (https://zhuanlan.zhihu.com/p/1983153471466250325)
   
+### About trainings
+
+- [Unified Audio Intelligence Without Regressing on Text Intelligence](https://arxiv.org/pdf/2607.05196) : Nvidia, 如何加入训练语音能力同时智能保持
